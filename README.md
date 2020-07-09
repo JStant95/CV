@@ -10,23 +10,54 @@ I am a Product Manager turned Software Engineer. My new-found passion for progra
 
 ## Technical Skills 
 
-### Programming Fundamentals
+#### Programming Fundamentals
 
 OOP, TDD, Agile, MVC and SOLID principles.
 
-### Languages 
+#### Languages 
 
 - Ruby
 - Javascript
 - HTML/CSS 
 
-### Frameworks
+#### Frameworks
 
 - React
 - Ruby-on-Rails
 - Sinatra
 
+#### Testing Suites
 
+- RSpec 
+- Capybara
+- Jasmine 
+- Cypress
+
+#### Git workflow
+
+- Using branches to work collaboratively in teams
+- Writing descriptive & succinct commit messages
+- Enforcing good commit discipline to minimise code conflicts
+- Dealing with code conflicts
+
+
+#### Databases
+
+- PostgreSQL
+- Firebase
+
+#### Deployment
+
+- Continuous deployment of the master and dev branches using Heroku/Firebase
+
+
+#### Working Methodology
+
+Agile software development including:
+- XP values
+- Sprint planning
+- Pair programming
+- Creating user stories
 
 ## Soft Skills
 
