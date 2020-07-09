@@ -10,15 +10,11 @@ I am a Product Manager turned Software Engineer. My new-found passion for progra
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Communication
 
-#### This Skill
+I have strong communications skills both within a team and when interacting with a range of different stakeholders. I evidenced this during my time at District Technologies where I acted as the interface between the customer and development teams, ensuring that all feedback was transferred into the customer roadmap and journey. I also worked closely with CTO and Tech team, playing an active role in both backlog grooming and prioritisation within an Agile environment. Additionally as a private tutor I learnt to explain complex concepts in a clear and concise manner which has helped me to explain technical concepts to non-technical stakeholders.
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
+#### Problem Solving 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
