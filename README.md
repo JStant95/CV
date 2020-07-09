@@ -8,7 +8,27 @@ I am a Product Manager turned Software Engineer. My new-found passion for progra
 | [Acebook](https://github.com/JStant95/Acebook-frontend)| Six person project that involved building a facebook clone with a react frontend and a rail backend. | 2 weeks | Ruby on Rails, React, HTML/CSS (Bootstrap), JavaScript, Ruby, Heroku, Surge | RSpec, Capybara, Travis, Cypress|
 | [Makers BnB](https://github.com/vivianallen/tastelessnotes) | Six person project that involved building a airBnB clone | 1 week | Ruby, Sinatra, PostgreSQL | Rspec, Capybara |
 
-## Skills
+## Technical Skills 
+
+### Programming Fundamentals
+
+OOP, TDD, Agile, MVC and SOLID principles.
+
+### Languages 
+
+- Ruby
+- Javascript
+- HTML/CSS 
+
+### Frameworks
+
+- React
+- Ruby-on-Rails
+- Sinatra
+
+
+
+## Soft Skills
 
 #### Communication
 
