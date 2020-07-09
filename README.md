@@ -16,12 +16,7 @@ I have strong communications skills both within a team and when interacting with
 
 #### Problem Solving 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+My education and training (Biochemistry BSc) involved analysing complex biological processes. I have also undertaken the Graduate Law Diploma where I further developed strong critical and analytical skills. Additionally at District Technologies I was the first line of defence for bugs, all bugs found by customers were reported to me initially. I then either tried to solve the issue myself or close the loop for the developer who would be tasked with the fix. This stood me in good stead for Makers where I have worked hard on developing my process to methodically breakdown problems, regardless of their size or difficulty.
 
 ## Education
 
