@@ -69,6 +69,10 @@ I have strong communications skills both within a team and when interacting with
 
 My education and training (Biochemistry BSc) involved analysing complex biological processes. I have also undertaken the Graduate Law Diploma where I further developed strong critical and analytical skills. Additionally at District Technologies I was the first line of defence for bugs, all bugs found by customers were reported to me initially. I then either tried to solve the issue myself or close the loop for the developer who would be tasked with the fix. This stood me in good stead for Makers where I have worked hard on developing my process to methodically breakdown problems, regardless of their size or difficulty.
 
+#### Taking Initiative 
+
+At District Technologies during a period of staff shortages, for six months I ran the department on my own implementing a number of process improvements that have now been adopted as a company standard. Changes I introduced to the onboarding process have resulted in the average client-onboarding time improving from 5 months down to 3 months.
+
 ## Education
 
 #### Makers Academy (March 2019 to June 2019)
