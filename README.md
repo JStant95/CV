@@ -94,14 +94,30 @@ My education and training (Biochemistry BSc) involved analysing complex biologic
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**MyKindaFuture** (December 2019 to Febuary 2020)    
+*Associate Product Manager*  
+- Ran ideation sessions for the discovery of new features.
+- I also supported the breakdown of features into user stories, including acceptance criteria and the process of testing and accepting stories as done.
+- I hwas involved in a number of strategic projects; including an in-depth competitor analysis and setting product KPIs using data and customer insight.
+- Work alongside the delivery team to ensure successful launch of the platform across a range of different audiences.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**District Technolgies** (September 2018 to December 2019)   
+*Customer and Product Success Manager*  
+- I acted as the interface between the customer and development teams, ensuring that all feedback is transferred into the customer roadmap and journey.
+- Work closely with CTO and Tech team, playing an active role in both backlog grooming and prioritisation within an Agile environment.
+- Collaborated with the UX team to carry out usability tests and map user journeys.
+
+**Private Tutoring** (December 2017 - September 2018)
+ - Tutored Maths, Biology, Chemistry to A-level standard.
+ - I built from scratch through self-advertisement and client development a large network of clients in North and Central London.
+ 
+**Mischon De Reya**
+*Archiving assistant*
+- Worked within the Archiving department assisting with migrating data to a new computerised archiving system.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I am passionately interested in sports, especially football.  I organised the fixtures and played in a 5-a-side football team at the University of Leeds.  During my time at University I co-wrote and presented a weekly talk show on Leeds Student radio and was also a member of the film society. 
+
+I obtained PADI certificate for scuba diving and also have a keen interest in independent travel and completed a three month trip through China, Japan and India.
+
