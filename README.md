@@ -108,6 +108,7 @@ My education and training (Biochemistry BSc) involved analysing complex biologic
 - Collaborated with the UX team to carry out usability tests and map user journeys.
 
 **Private Tutoring** (December 2017 - September 2018)
+*test*
  - Tutored Maths, Biology, Chemistry to A-level standard.
  - I built from scratch through self-advertisement and client development a large network of clients in North and Central London.
  
