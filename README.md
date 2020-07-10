@@ -111,7 +111,7 @@ My education and training (Biochemistry BSc) involved analysing complex biologic
  - Tutored Maths, Biology, Chemistry to A-level standard.
  - I built from scratch through self-advertisement and client development a large network of clients in North and Central London.
  
-**Mischon De Reya**
+**Mischon De Reya** (Jun 2017 - September 2017)
 *Archiving assistant*
 - Worked within the Archiving department assisting with migrating data to a new computerised archiving system.
 
