@@ -110,10 +110,6 @@ My education and training (Biochemistry BSc) involved analysing complex biologic
 **Private Tutoring** (December 2017 - September 2018)
  - Tutored Maths, Biology, Chemistry to A-level standard.
  - I built from scratch through self-advertisement and client development a large network of clients in North and Central London.
- 
-**Mischon De Reya** (June 2017 to September 2017)   
-*Archiving Assistant* 
-- Worked within the Archiving department assisting with migrating data to a new computerised archiving system.
 
 ## Hobbies
 
