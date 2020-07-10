@@ -71,22 +71,26 @@ My education and training (Biochemistry BSc) involved analysing complex biologic
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2019 to June 2019)
 
-- OOP, TDD, MVC, DDD
+- Programming fundamentals: OOP, TDD, MVC, SOLID
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Languages/Frameworks/Tools: Ruby, Rails, JavaScript, React, PostgreSQL, Firebase, HTML, CSS, Surge, Heroku
+- Test frameworks: RSpec, Jasmine, Cypress
 
-#### Your University / College (start_date to end_date)
+#### BPP Law School (September 2016 to June 2017)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Graduate Diploma in Law (GDL)
+- Commendation
 
-#### Any other qualifications
+#### University of Leeds (September 2013 to June 2016)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Biochemistry BSc 
+- 2:1
+
+#### JFS (2006-2013)
+
+- A-levels: Maths (A), Biology (A), Chemistry (A)
 
 ## Experience
 
