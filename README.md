@@ -8,7 +8,45 @@ I am a Product Manager turned Software Engineer. My new-found passion for progra
 | [Acebook](https://github.com/JStant95/Acebook-frontend)| Six-person project that involved building a facebook clone with a react frontend and a rails backend. | 2 weeks | Ruby on Rails, React, HTML/CSS (Bootstrap), JavaScript, Ruby, Heroku, Surge | RSpec, Capybara, Travis, Cypress|
 | [Makers BnB](https://github.com/vivianallen/tastelessnotes) | Six person project that involved building an airBnB clone | 1 week | Ruby, Sinatra, PostgreSQL | Rspec, Capybara |
 
+## Experience
+
+**MyKindaFuture** (December 2019 to Febuary 2020)    
+*Associate Product Manager*  
+- Ran ideation sessions for the discovery of new features.
+- I also supported the breakdown of features into user stories, including acceptance criteria and the process of testing and accepting stories as done.
+- I was involved in a number of strategic projects; including an in-depth competitor analysis and setting product KPIs using data and customer insight.
+- Work alongside the delivery team to ensure successful launch of the platform across a range of different audiences.
+
+**District Technolgies** (September 2018 to December 2019)   
+*Customer and Product Success Manager*  
+- I acted as the interface between the customer and development teams, ensuring that all feedback is transferred into the customer roadmap and journey.
+- Work closely with CTO and Tech team, playing an active role in both backlog grooming and prioritisation within an Agile environment.
+- Collaborated with the UX team to carry out usability tests and map user journeys.
+
+**Private Tutoring** (December 2017 - September 2018)
+ - Tutored Maths, Biology, Chemistry to A-level standard.
+ - I built from scratch through self-advertisement and client development a large network of clients in North and Central London.
+
 ## Technical Skills 
+
+| Programming Fundamentals | Languages | Frameworks | Testing Suites | Git workflow | Databases | Deployment | Working Methodology |
+|--|--|--|--|--|--|--|--|
+| OOP, TDD, Agile, MVC and SOLID principles. | - Ruby
+- Javascript
+- HTML/CSS  | - React
+- Ruby-on-Rails
+- Sinatra | - RSpec 
+- Capybara
+- Jasmine 
+- Cypress | - Using branches to work collaboratively in teams
+- Writing descriptive & succinct commit messages
+- Enforcing good commit discipline to minimise code conflicts
+- Dealing with code conflicts | - PostgreSQL
+- Firebase | - Continuous deployment of the master and dev branches using Heroku/Firebase | Agile software development including:
+- XP values
+- Sprint planning
+- Pair programming
+- Creating user stories |
 
 #### Programming Fundamentals
 
@@ -95,25 +133,6 @@ At District Technologies during a period of staff shortages, for six months I ra
 #### JFS (2006-2013)
 
 - A-levels: Maths (A), Biology (A), Chemistry (A)
-
-## Experience
-
-**MyKindaFuture** (December 2019 to Febuary 2020)    
-*Associate Product Manager*  
-- Ran ideation sessions for the discovery of new features.
-- I also supported the breakdown of features into user stories, including acceptance criteria and the process of testing and accepting stories as done.
-- I was involved in a number of strategic projects; including an in-depth competitor analysis and setting product KPIs using data and customer insight.
-- Work alongside the delivery team to ensure successful launch of the platform across a range of different audiences.
-
-**District Technolgies** (September 2018 to December 2019)   
-*Customer and Product Success Manager*  
-- I acted as the interface between the customer and development teams, ensuring that all feedback is transferred into the customer roadmap and journey.
-- Work closely with CTO and Tech team, playing an active role in both backlog grooming and prioritisation within an Agile environment.
-- Collaborated with the UX team to carry out usability tests and map user journeys.
-
-**Private Tutoring** (December 2017 - September 2018)
- - Tutored Maths, Biology, Chemistry to A-level standard.
- - I built from scratch through self-advertisement and client development a large network of clients in North and Central London.
 
 ## Hobbies
 
