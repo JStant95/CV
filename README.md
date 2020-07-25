@@ -102,7 +102,7 @@ At District Technologies during a period of staff shortages, for six months I ra
 *Associate Product Manager*  
 - Ran ideation sessions for the discovery of new features.
 - I also supported the breakdown of features into user stories, including acceptance criteria and the process of testing and accepting stories as done.
-- I hwas involved in a number of strategic projects; including an in-depth competitor analysis and setting product KPIs using data and customer insight.
+- I was involved in a number of strategic projects; including an in-depth competitor analysis and setting product KPIs using data and customer insight.
 - Work alongside the delivery team to ensure successful launch of the platform across a range of different audiences.
 
 **District Technolgies** (September 2018 to December 2019)   
