@@ -1,5 +1,5 @@
 ## Jed Stanton
-I am a Product Manager turned Software Engineer. My new-found passion for programming has stemmed from a desire to turn ideas into reality and to contribute to building great products. Much of my work experience has involved working within a team-based culture and I thrive collabrating with others. Coding gives me the opportunity to be constantly learning, creating and problem solving; three things I value in my day-to-day. 
+I'm a Product Manager turned Software Engineer. My new-found passion for programming has stemmed from a desire to turn ideas into reality and to contribute to building great products. Much of my work experience has involved working within a team-based culture and I thrive collabrating with others. Coding gives me the opportunity to be constantly learning, creating and problem solving; three things I value in my day-to-day. 
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
