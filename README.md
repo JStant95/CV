@@ -119,5 +119,5 @@ At District Technologies during a period of staff shortages, for six months I ra
 
 I am passionately interested in sports, especially football.  I organised the fixtures and played in a 5-a-side football team at the University of Leeds.  During my time at University I co-wrote and presented a weekly talk show on Leeds Student radio and was also a member of the film society. 
 
-I obtained PADI certificate for scuba diving and also have a keen interest in independent travel and completed a three month trip through China, Japan and India
+I obtained PADI certificate for scuba diving and also have a keen interest in independent travel and completed a three month trip through China, Japan and India.
 
